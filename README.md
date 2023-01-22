@@ -15,7 +15,7 @@ Comparing  results with MATLAB built-in function that uses Mehrotra algorithm.
 
 
 Code files:
-* Main file to manage the flow of the program by interacting with the user in the command window and call other function in the correct order
+* Main file to manage the flow of the program by interacting with the user in the command window and call other functions in the correct order
 * starting point is a function that takes the chosen problem to find a suitable point that the method can work use initially 
 * method file which is a function that takes the user's input to choose the needed method to be used and the needed optimization probelm to solve with the chosen method 
 * plotter file which is a fuction that take the returned outcome if the method to plot it and give 3 figures as asked
